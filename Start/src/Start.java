@@ -179,8 +179,8 @@ public class Start {
         boolean isValid = true;
         char letter = 'T';
 
-        String firstName = "Thomas";
-        String lastname = "Hintersteiner";
+        String firstName = "Max";
+        String lastname = "Mustermann";
         String fullName = firstName + " " + lastname;
 
         System.out.println(fullName);
