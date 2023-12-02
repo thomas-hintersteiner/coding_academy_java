@@ -165,7 +165,7 @@ public class Start {
     }
 
     static void start() throws IOException {
-        System.out.println("Start");
+        System.out.println("Start - los gehts");
 
         byte veryShortNumber = 22;
         System.out.println(veryShortNumber);
