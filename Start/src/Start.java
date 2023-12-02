@@ -221,8 +221,6 @@ public class Start {
         System.out.print("Geben Sie bitte den aktuellen Wochentag ein: ");
         String dayOfWeek = reader.readLine();
         System.out.println("heute ist: " + dayOfWeek);
-
-
     }
 
 }
